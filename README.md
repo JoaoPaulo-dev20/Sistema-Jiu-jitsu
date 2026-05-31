@@ -1,4 +1,4 @@
-# 🥋 Sistema de Controle — Academia de Jiu-Jitsu
+#  Sistema de Controle — Academia de Jiu-Jitsu
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Node](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Índice
+##  Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -34,22 +34,22 @@ O sistema permite que o professor/administrador controle a frequência dos aluno
 
 ## Funcionalidades
 
-### ✅ Módulo de Alunos
+###  Módulo de Alunos
 - Cadastro completo com foto, faixa e dados de contato
 - Listagem, busca e edição de alunos
 - Inativação e reativação de cadastros
 
-### ✅ Módulo de Presença
+###  Módulo de Presença
 - Chamada manual por lista de alunos
 - Chamada automática via reconhecimento facial em foto da turma
 - Histórico e relatório de frequência por aluno
 
-### ✅ Módulo Financeiro
+###  Módulo Financeiro
 - Controle de mensalidades por aluno
 - Status de pagamento (pago, pendente, em atraso)
 - Alertas de inadimplência e histórico financeiro
 
-### ✅ Módulo de Relatórios
+###  Módulo de Relatórios
 - Dashboard com visão geral do mês
 - Frequência percentual por aluno e período
 - Exportação de relatórios
@@ -163,7 +163,7 @@ PORT=3001
 NODE_ENV=development
 ```
 
-> ⚠️ **Nunca** envie o arquivo `.env` para o GitHub. Ele já está no `.gitignore`.
+>  **Nunca** envie o arquivo `.env` para o GitHub. Ele já está no `.gitignore`.
 
 ---
 
